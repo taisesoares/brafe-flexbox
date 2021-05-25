@@ -6,7 +6,9 @@ Terceira versão do layout Brafe, agora utilizando os conceitos de flexbox.
 
 * [Pure CSS](https://github.com/taisesoares/brafe-pure-css)
 * [Grid CSS](https://github.com/taisesoares/brafe-grid-css)
-* 
+* [Bootstrap](https://github.com/taisesoares/brafe-bootstrap)
+
+
 <hr>
 
 ### Brafe 2
